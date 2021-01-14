@@ -1,5 +1,5 @@
 # Discription
-This is a test code to download stock data from yahoo.com. The function get_stock_price_today() from get_stock_price.py takes a single stock_symbol as input, and returns a DataFrame object with 4 columns: 'High', 'Low', 'Open', and 'Close', which are the corrosponding stock data of that symbol today. If the symbol is not found from yahoo.com, it returns a vacant DataFrame.
+This is a test code to download stock data from yahoo.com. The function get_stock_price_today() from get_stock_price.py takes a single stock_symbol as input and returns a DataFrame object with 4 columns: 'High', 'Low', 'Open', and 'Close', which are the corresponding stock data of that symbol today. If the symbol is not found from yahoo.com, it returns a vacant DataFrame.
 
 
 # How to test if the code works
