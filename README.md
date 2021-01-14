@@ -15,7 +15,7 @@ Open:  787.37
 
 Close: 811.45
 
-'--------------------------'
+--------------------------
 
 
 price information for AAPL:
@@ -28,7 +28,7 @@ Open:  128.76
 
 Close: 130.89
 
-'--------------------------'
+--------------------------
 
 
 No data fetched for symbol AAAA from Yahoo.com. Please try other symbols.
