@@ -3,7 +3,7 @@ This is a test code to download stock data from yahoo.com. The function get_stoc
 
 
 # How to test if the code works
-Run test.py to test the code. It tests 4 stock symbols: 'ISRG', 'AAPL', 'AAAA', and 'CHAU', and prints out data fetch from yahoo.com.
+Run test.py to test the code. It tests 4 stock symbols: 'ISRG', 'AAPL', 'AAAA', and 'CHAU', and prints out data fetch from yahoo.com. Note that the symbol 'AAAA' does not exist in yahoo.com so the code will print error information instead. 
 
 If there is no data fetched from yahoo.com, the code prints error information. The printed information for the 4 symbols should be in the following form:
 
