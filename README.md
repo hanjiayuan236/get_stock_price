@@ -53,3 +53,6 @@ Close: 48.63
 
 # Version of Python and other packages
 See requirements.txt
+
+# Architecture diagram
+See architecture diagram.pdf
